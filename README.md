@@ -1,6 +1,4 @@
-# swfp-test
-
-Support World for Peace Test Website
+# Support World for Peace Website
 
 [https://www.facebook.com/unitedforworld/](Link to Our Facebook Page)
 
