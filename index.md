@@ -1,5 +1,5 @@
 # Support World for Peace Website
 
-[https://www.facebook.com/unitedforworld/](Link to Our Facebook Page)
+[Link to Our Facebook Page](https://www.facebook.com/unitedforworld/)
 
-[https://instagram.com/unitedfor/](Link to Our Instagram Account)
+[Link to Our Instagram Account](https://instagram.com/unitedfor/)
